@@ -1,6 +1,6 @@
 # Buscador de CEP usando API ViaCep
 
-![Imagem da In](URL_da_Imagem)
+![Imagem da In](https://github.com/rianlucky/Python-BuscadorCEP/blob/main/assets/ImageGUI.png)
 
 Este programa é um buscador de CEP simples que utiliza a API ViaCep para obter informações sobre endereços no Brasil. O usuário fornece o número do CEP como entrada, e o programa retorna as seguintes informações: Logradouro, Bairro, Cidade e Estado (UF).
 
